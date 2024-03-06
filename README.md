@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MessiasCrasto
 - 👀 I’m interested in novas tecnologias para programação
 - 🌱 I’m currently learning HTML, CSS e JavaScript
-- 💞️ I’m looking to collaborate on Progetos para iniciantes
+- 💻 I’m looking to collaborate on Progetos para iniciantes
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/messias-crasto-1551ba184/)
 
 
